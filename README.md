@@ -10,4 +10,5 @@ The mean value is quite consistent for positive s value:
 ![image](figures/quality_control_2.png)
 
 For negative s value:
+
 ![image](figures/quality_control_1.png)
